@@ -1,1 +1,9 @@
 Basic Bash commands to manipulate various different files.
+
+diff
+wc
+cut
+sed
+pipes (> |)
+awk
+grep
