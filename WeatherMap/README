@@ -3,3 +3,5 @@ Blank_US_Map_(states only).svg taken from Wikimedia Commons - https://commons.wi
 Python to get lattitude/longitudes of capital cities of each state from Google API and weather for these lattitudes/longitudes from the DarkSky Weather API.
 
 HTML/Javascript to fill in specific colors on the Blank_US_Map based on the weather in the capital city of that state.
+
+Ran on python localhost.
